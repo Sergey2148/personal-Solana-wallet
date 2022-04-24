@@ -37,7 +37,7 @@ var importWalletCmd = &cobra.Command{
 		fmt.Println("Wallet balance: " + strconv.Itoa(int(balance/1e9)) + "SOL")
 	},
 }
-
+ 
 func init() {
 	rootCmd.AddCommand(importWalletCmd)
 

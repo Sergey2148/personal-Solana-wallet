@@ -16,7 +16,7 @@ type Wallet struct {
 	account types.Account
 	c       *client.Client
 }
-
+ 
 
 func CreateNewWallet(RPCEndpoint string) Wallet {
 	// create a new wallet using types.NewAccount()

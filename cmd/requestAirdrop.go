@@ -22,7 +22,7 @@ import (
 	"github.com/portto/solana-go-sdk/client/rpc"
 	"github.com/spf13/cobra"
 )
-
+ 
 // requestAirdropCmd represents the requestAirdrop command
 var requestAirdropCmd = &cobra.Command{
 	Use:   "requestAirdrop",
