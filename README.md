@@ -1,0 +1,2 @@
+# personal-Solana-wallet
+The best thing about Solana and other blockchains is that they allow us to manage money very easily. In order to transfer money on the blockchain, you need to use software that facilitates these transactions, called a wallet. Crypto wallets are physical devices or virtual programs that allow us to easily store and retrieve our crypto assets, i.e. any cryptocurrencies we may have on the blockchain. Here is the code for a fully working wallet. You can create, import a wallet, transfer funds, etc.
